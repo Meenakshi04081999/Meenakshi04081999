@@ -24,5 +24,4 @@ Tech:
 
 ## Connect With Me
 
-- LinkedIn: your-link
-- Portfolio: your-link
+- LinkedIn: https://www.linkedin.com/in/meenakshi-rajendran-007047188/
