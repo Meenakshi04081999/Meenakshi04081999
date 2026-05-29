@@ -1,26 +1,17 @@
 # Hi, I'm Meenakshi 👋
 
-Full Stack Developer & AI Enthusiast
+Web tester and ML engineer
 
 - Masters in Computer Science at Saarland University.
-- Interested in Web Development, machine learning and Cybersecurity.
+- Interested in Web Development, machine learning and security aspects of ML.
 - Currently building Website and ML integration projects.
 
 ## Tech Stack
 
 - Frontend: React, HTML, CSS, JavaScript
-- Backend: Node.js, Express, FastAPI
-- Database: MongoDB, MySQL
+- Backend:  FastAPI, SQL
+- Database: MySQL
 - Languages: Python, JavaScript
-
-## Featured Projects
-
-
-Tech:
-- React
-- FastAPI
-- Python
-- MongoDB
 
 ## Connect With Me
 
