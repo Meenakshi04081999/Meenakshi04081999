@@ -9,8 +9,8 @@ Web tester and ML engineer
 ## Tech Stack
 
 - Frontend: React, HTML, CSS, JavaScript
-- Backend:  FastAPI, SQL
-- Database: MySQL
+- Backend:  FastAPI, SQL, REST APIs, OpenAI APIs
+- Database: MySQL, Django, Elastic search
 - Languages: Python, JavaScript
 
 ## Connect With Me
